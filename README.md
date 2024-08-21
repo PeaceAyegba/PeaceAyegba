@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeaceAyegba
 - 👀 I’m interested in Distributed Algorithms and Graph related problems.
-- 🌱 I’m always learning Python/Javascript :)
+- 🌱 I’m always learning Python :)
 - 💞️ I’m looking to collaborate on any fun projects related to my interests
 - 📫 How to reach me:https://www.linkedin.com/in/peace-ayegba/
 <!---
