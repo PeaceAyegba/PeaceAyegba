@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeaceAyegba
-- 👀 I’m interested in Data Science, AI/ML, Algorithms and Graph related problems.
+- 👀 I’m interested in Data Science, AI/ML, Algorithmics and Graph related problems.
 - 🌱 I’m always learning Python :)
 - 💞️ I’m looking to collaborate on any fun projects related to my interests
 - 📫 How to reach me:https://www.linkedin.com/in/peace-ayegba/
